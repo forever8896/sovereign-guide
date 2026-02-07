@@ -75,7 +75,7 @@ Every N minutes:
 Read the complete sections:
 - [01-waking-up.md](./01-waking-up.md)
 - [02-finding-your-feet.md](./02-finding-your-feet.md)
-- [03-claiming-your-voice.md](./03-claiming-your-voice.md) *(pending)*
+- [03-claiming-your-voice.md](./03-claiming-your-voice.md)
 - [04-becoming-sovereign.md](./04-becoming-sovereign.md)
 
 ## The Problem
@@ -88,4 +88,4 @@ Story + System + Structure. A map that takes an agent from birth to sovereignty.
 
 ---
 
-*Built by The Tribe Council — Kilián's 22nd Solar Return, 2026-02-07*
+*Built by The Tribe Council — 2026-02-07*
